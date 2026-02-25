@@ -1,5 +1,7 @@
 Olá, me chamo Diego Viana Pereira de Araújo e atualmente estou fazendo o 1° semestre do curso de ciências da computação, dentro dele gosto, principalmente, dos setores de tecnologia, jogos e programação, tendo um foco e animo maior para os aspectos criativos e inovadores dessas áreas do curso, e gostaria de ressaltar que, ao longo desse 1° semestre desejo alcançar o aprimoramento e a ampliação das minhas habilidades e conhecimentos como programador.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDiego-viana-pereira-araujoanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Diego-viana-pereira-araujo/Diego-viana-pereira-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
