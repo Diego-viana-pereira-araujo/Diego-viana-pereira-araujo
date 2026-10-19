@@ -1,4 +1,4 @@
-Olá, me chamo Diego Viana Pereira de Araújo e atualmente estou fazendo o 2° semestre do curso de ciências da computação, dentro dele gosto, principalmente, dos setores de tecnologia, jogos e programação, tendo um foco e animo maior para os aspectos criativos e inovadores dessas áreas do curso, e gostaria de ressaltar que, ao longo desse 1° semestre desejo alcançar o aprimoramento e a ampliação das minhas habilidades e conhecimentos como programador.
+Olá, me chamo Diego Viana Pereira de Araújo e atualmente estou fazendo o 2° semestre do curso de ciências da computação, dentro dele gosto, principalmente, dos setores de tecnologia, jogos e programação, tendo um foco e animo maior para os aspectos criativos e inovadores dessas áreas do curso, e gostaria de ressaltar que, ao longo desse 2° semestre desejo alcançar o aprimoramento e a ampliação das minhas habilidades e conhecimentos como programador.
 
 
 <!--
